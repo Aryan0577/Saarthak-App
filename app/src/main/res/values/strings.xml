@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Saarthak</string>
+    <string name="promo"> Analyze this image and provide a clear, concise description for a visually impaired person telling what this image contain.
+            Keep the description in 40-50 words and dont mention prompt in output.
+            Keep the description natural and conversational, as if speaking to a friend.</string>
+
+</resources>
