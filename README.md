@@ -14,7 +14,6 @@ SAARTHAK is a feature-rich mobile application designed to assist visually impair
   - Pause and play controls.
   - Option to copy recognized text.
   
-  ![Text Recognition](path/to/text-recognition-image.png)
 
 ### 2. Object Detection
 - **Functionality**: Detects objects in real-time using TensorFlow Lite (EfficientDetv4).
@@ -24,24 +23,21 @@ SAARTHAK is a feature-rich mobile application designed to assist visually impair
   - Double-tap to freeze the camera and analyze the frame.
   - Audio output describing detected objects.
 
-  ![Object Detection](path/to/object-detection-image.png)
 
 ### 3. Explore Mode
-- **Functionality**: Provides a comprehensive description of an image using Google Cloud Vision API.
+- **Functionality**: Provides a comprehensive description of an image using Google Gemini API.
 - **Key Features**:
   - Flashlight option for better image capturing.
   - Toggle to enable or disable audio descriptions.
   - Double-tap to capture and analyze the image.
 
-  ![Explore Mode](path/to/explore-mode-image.png)
 
 ### 4. Currency Detection
-- **Functionality**: Identifies currency notes using Google Cloud services.
+- **Functionality**: Identifies currency notes using Google Gemini. 
 - **Key Features**:
   - Double-tap to capture and identify the currency.
   - Audio output for immediate feedback.
 
-  ![Currency Detection](path/to/currency-detection-image.png)
 
 ---
 
